@@ -43,7 +43,7 @@ src/main/java/com/academia/
 - Commit: `git commit -m 'feat: adiciona X'`
 - Push e PR.
 
-Obrigado por visitar! 💪 **Desenvolvido por Gustavo Miranda Brito (Cariré-CE).**
+Obrigado por visitar! 💪 **Desenvolvido por Gustavo Miranda Brito.**
 
 [![Star](https://img.shields.io/github/stars/Gusta-code22/FitManager?style=social)](https://github.com/Gusta-code22/FitManager/stargazers/)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
